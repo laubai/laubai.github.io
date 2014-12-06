@@ -1,7 +1,8 @@
 # Site settings
-title: Doing the Thing
+title: DO THE THING
 email: l4.bailey@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
+   Portfolio slash blog of Laura Bailey. 
    The writer, not the model or the voice actor.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://laurabailey.com.au" # the base hostname & protocol for your site
