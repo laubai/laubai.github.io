@@ -1,11 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Me
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I write fantasy, scifi, and speculative fiction.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I also write process and technical documentation.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I can also help you plan and manage projects.
